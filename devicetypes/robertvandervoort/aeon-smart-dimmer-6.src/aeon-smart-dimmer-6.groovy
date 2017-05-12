@@ -14,7 +14,7 @@
 */
 
  metadata {
-	definition (name: "Aeon Smart Dimmer 6 - RV v0.1", namespace: "robertvandervoort", author: "Robert Vandervoort") {
+	definition (name: "Aeon Smart Dimmer 6", namespace: "robertvandervoort", author: "Robert Vandervoort") {
 		capability "Energy Meter"
 		capability "Power Meter"
 		capability "Actuator"
