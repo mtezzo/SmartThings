@@ -13,7 +13,7 @@
  *
  */
 metadata {
-	definition (name: "GE/Jasco Z-Wave Switch", namespace: "robertvandervoort", author: "Robert Vandervoort") {
+	definition (name: "GE Z-Wave Switch Improved", namespace: "robertvandervoort", author: "Robert Vandervoort") {
 		capability "Actuator"
 		capability "Indicator"
 		capability "Switch"

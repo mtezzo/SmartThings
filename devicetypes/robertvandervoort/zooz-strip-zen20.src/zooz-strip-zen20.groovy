@@ -13,7 +13,7 @@
  *
  */
 metadata {
-	definition (name: "zooZ ZEN20 - Z-Wave plus power strip", namespace: "robertvandervoort", author: "Robert Vandervoort") {
+	definition (name: "zooZ Strip ZEN20", namespace: "robertvandervoort", author: "Robert Vandervoort") {
 		capability "Switch"
 		capability "Refresh"
 		capability "Configuration"
